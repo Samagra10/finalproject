@@ -18,7 +18,7 @@ function Five()
       <p className="card-text">location</p>
     </div>
   </div>
-  <div className="card" id="samagra3">
+  <div className="card" id="samagra">
     <div className="card-body text-white text-center">
       <p className="card-text">Brochure</p>
       <p className="card-text">Download</p>

@@ -13,13 +13,11 @@ function Six()
       <p className="card-text">U.P., India.</p>
     </div>
   </div>
-      
   <div className="card" className="samagra4">
     <div className="card-body text-white text-center">
     <p className="card-text">Contact</p>
-      <p className="card-text">Contact:9554513225</p>
-      <p className="card-text">Mobile:</p>
-      <p className="card-text">Email - "divyashuklaa1500@gmail.com"</p>
+      <p className="card-text">Contact : 9554513225</p>
+      <p className="card-text">Email - "divyashukla1500@gmail.com"</p>
     </div>
   </div>
   </div>
